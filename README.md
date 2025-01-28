@@ -105,7 +105,7 @@ The model I've trained can control the car to the finish line of the racetrack o
 Other information such as the mechanics of the game are described in the README of the original source. Below are the information of the 4.0.1 version.
 At last, wish you a happy ML experience. ^_^
 
-
+# README of the root repository(version: 4.0.1)
 <img src="https://raw.githubusercontent.com/PAIA-Playful-AI-Arena/racing_car/main/asset/logo.png" alt="logo" width="100"/> 
 
 ![racing_car](https://img.shields.io/github/v/tag/PAIA-Playful-AI-Arena/RacingCar)
